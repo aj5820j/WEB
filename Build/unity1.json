@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "3DTEST",
+"dataUrl": "unity1.data.unityweb",
+"wasmCodeUrl": "unity1.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "unity1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
